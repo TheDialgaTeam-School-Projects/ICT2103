@@ -1,0 +1,11 @@
+{
+  "name": "ict2103/project",
+  "description": "ICT2103 Project.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "mongodb/mongodb": "1.5.1",
+    "ext-mysqli": "*",
+    "ext-mongodb": "*"
+  }
+}
